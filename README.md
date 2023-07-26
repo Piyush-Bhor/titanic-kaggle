@@ -72,6 +72,17 @@ df = pd.read_csv("/Users/pb/Downloads/titanic/train.csv")
 python titanic.py
 ```
 
+## Plots
+
+### Precision and Recall Plot
+![Precision-Recall Curve](https://dummy-image-link.com/precision_recall_curve.png)
+
+### Precision vs. Recall Plot
+![PrecisionVsRecall Curve](https://dummy-image-link.com/precision_recall_curve.png)
+
+### ROC Curve
+![ROC Curve](https://dummy-image-link.com/precision_recall_curve.png)
+
 ## Disclaimer
 
 Keep in mind that this is a basic implementation, and there are many ways to improve the model's performance, such as hyperparameter tuning, feature engineering, or using different machine learning algorithms. This code serves as a starting point for your exploration in the Titanic Kaggle competition.
