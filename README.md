@@ -75,13 +75,13 @@ python titanic.py
 ## Plots
 
 ### Precision and Recall Plot
-![Precision-Recall Curve](https://dummy-image-link.com/precision_recall_curve.png)
+![Precision-Recall Curve](https://github.com/Piyush-Bhor/titanic-kaggle/blob/main/plots/1.png)
 
 ### Precision vs. Recall Plot
-![PrecisionVsRecall Curve](https://dummy-image-link.com/precision_recall_curve.png)
+![PrecisionVsRecall Curve](https://github.com/Piyush-Bhor/titanic-kaggle/blob/main/plots/2.png)
 
 ### ROC Curve
-![ROC Curve](https://dummy-image-link.com/precision_recall_curve.png)
+![ROC Curve](https://github.com/Piyush-Bhor/titanic-kaggle/blob/main/plots/3.png)
 
 ## Disclaimer
 
