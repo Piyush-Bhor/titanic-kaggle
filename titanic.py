@@ -53,7 +53,7 @@ print("Accuracy: " + str(accuracy * 100) + "%")
 model.score(X_train, y_train)
 acc_random_forest = round(model.score(X_train, y_train) * 100, 2)
 print("oob score:", round(model.oob_score_, 4)*100, "%")
-print(acc_random_forest)
+print("acc_random_forest", acc_random_forest)
 
 # Predict probabilities for the training data
 y_scores = model.predict_proba(X_train)
