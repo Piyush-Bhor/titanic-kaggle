@@ -72,6 +72,14 @@ df = pd.read_csv("/Users/pb/Downloads/titanic/train.csv")
 python titanic.py
 ```
 
+## Metrics:
+1. Accuracy: 81.00558659217877%
+2. oob score: 81.17999999999999 %
+3. acc_random_forest: 98.03 
+4. ROC-AUC-Score: 0.996966182600511
+5. Precision: 0.78099173553719
+6. Recall: 0.7052238805970149
+
 ## Plots
 
 ### Precision and Recall Plot
